@@ -10,7 +10,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_btn = [
     [
-        InlineKeyboardButton('Korish', callback_data='view_btn'),
+        InlineKeyboardButton('Ko`rish', callback_data='view_btn'),
         InlineKeyboardButton('O`chirish', callback_data='del_btn')
 
     ],
@@ -34,7 +34,7 @@ del_thumb = [
 
 join_channel = [
     [
-        InlineKeyboardButton('⚙ Join Updates', url='https://telegram.me/Ultrasoft_uz'),
+        InlineKeyboardButton('⚙ Yangiliklar', url='https://telegram.me/Ultrasoft_uz'),
         InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
     ]
 ]
@@ -42,14 +42,14 @@ join_channel = [
 
 back_button = [
     [
-        InlineKeyboardButton('⬅️ Back', callback_data='back_btn')
+        InlineKeyboardButton('⬅️ Ortga', callback_data='back_btn')
     ]
 ]
 
 close_button = [
     [
-        InlineKeyboardButton('❌ Close', callback_data='close_btn'),
-        InlineKeyboardButton('Home', callback_data='home_btn')
+        InlineKeyboardButton('❌ Yopish', callback_data='close_btn'),
+        InlineKeyboardButton('Uyga', callback_data='home_btn')
     ]
 ]
 
