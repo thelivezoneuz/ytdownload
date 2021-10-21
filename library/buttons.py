@@ -10,7 +10,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_btn = [
     [
-        InlineKeyboardButton('Ko`rish', callback_data='view_btn'),
+        InlineKeyboardButton('Korish', callback_data='view_btn'),
         InlineKeyboardButton('O`chirish', callback_data='del_btn')
 
     ],
