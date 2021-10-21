@@ -12,9 +12,9 @@ class Presets(object):
 
 𝐉𝐨𝐢𝐧 <a href='https://t.me/Ultrasoft_uz'>𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a> | 𝐑𝐞𝐩𝐨 <a href='https://github.com/m4mallu/inline-tube-mate'>𝐋𝐈𝐍𝐊</a>   
     """
-    WELCOME_MSG = "�Salom... {}\nMen YouTubedagi videolarni yuklayman.\nInline qidirng hamda yuklab oling."
+    WELCOME_MSG = "✋Salom... {}\nMen YouTubedagi videolarni yuklayman.\nInline qidirng hamda yuklab oling."
     OPTIONS_TXT = "Men YouTubedagi videolarni yuklayma.\nInline qidirng hamda yuklab oling."
-    RESULTS_TXT = "👀 Natikalar:"
+    RESULTS_TXT = "👀 Natijalar:"
     NO_RESULTS = "❌ Natija topilmadi:"
     DESCRIPTION = "Duration: {} || {}"
     NOT_AUTH_TXT = "❌ ❌ Siz obuna bo`lmagansiz ❌ ❌"
@@ -61,7 +61,7 @@ class Presets(object):
     """
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
-    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Credits- </b><b><a href='https://t.me/RMProjects'>@RMProjects</a></b>"
+    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Bizning kanal- </b><b><a href='https://t.me/RMProjects'>@UltraSoft_uz</a></b>"
     RCHD_TG_API_LIMIT = "Detected File Size: {}\nSorry. But, I cannot upload files " \
                         "greater than 1.95GB due to Telegram API limitations."
     AD_STRING_TO_REPLACE = "please report this issue on https://yt-dl.org/bug . Make sure you are using the " \
