@@ -16,7 +16,7 @@ start_btn = [
     ],
     [
         InlineKeyboardButton('Yordam', callback_data='help_btn'),
-        InlineKeyboardButton('Support', url='t.me/RMProjects')
+        InlineKeyboardButton('Yordam', url='t.me/i_shakhzod')
     ],
     [
         InlineKeyboardButton('Yopish', callback_data='close_btn'),
@@ -28,14 +28,14 @@ start_btn = [
 del_thumb = [
     [
         InlineKeyboardButton("DEL THUMB", callback_data="thumb_del_conf_btn"),
-        InlineKeyboardButton("Back", callback_data="a_back_btn")
+        InlineKeyboardButton("Ortga", callback_data="a_back_btn")
     ]
 ]
 
 join_channel = [
     [
         InlineKeyboardButton('⚙ Yangiliklar', url='https://telegram.me/Ultrasoft_uz'),
-        InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
+        InlineKeyboardButton('Inline qidirish', switch_inline_query_current_chat='')
     ]
 ]
 
@@ -55,14 +55,14 @@ close_button = [
 
 cancel_button = [
     [
-        InlineKeyboardButton('Cancel', callback_data='cancel_btn')
+        InlineKeyboardButton('Bekor qilmoq', callback_data='cancel_btn')
     ]
 ]
 
 prompt_thumb_btn = [
     [
-        InlineKeyboardButton('Yes', callback_data='set_thumb_btn'),
-        InlineKeyboardButton('No', callback_data='close_btn')
+        InlineKeyboardButton('Ha', callback_data='set_thumb_btn'),
+        InlineKeyboardButton('Yo`q', callback_data='close_btn')
     ]
 ]
 
