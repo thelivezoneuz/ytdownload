@@ -10,8 +10,8 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_btn = [
     [
-        InlineKeyboardButton('View Thumb', callback_data='view_btn'),
-        InlineKeyboardButton('Del Thumb', callback_data='del_btn')
+        InlineKeyboardButton('Ko`rish', callback_data='view_btn'),
+        InlineKeyboardButton('O`chirish', callback_data='del_btn')
 
     ],
     [
@@ -34,7 +34,7 @@ del_thumb = [
 
 join_channel = [
     [
-        InlineKeyboardButton('⚙ Join Updates', url='https://telegram.me/RMProjects'),
+        InlineKeyboardButton('⚙ Join Updates', url='https://telegram.me/Ultrasoft_uz'),
         InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
     ]
 ]
