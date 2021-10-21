@@ -12,9 +12,9 @@ class Presets(object):
 
 𝐉𝐨𝐢𝐧 <a href='https://t.me/Ultrasoft_uz'>𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a> | 𝐑𝐞𝐩𝐨 <a href='https://github.com/m4mallu/inline-tube-mate'>𝐋𝐈𝐍𝐊</a>   
     """
-    WELCOME_MSG = "�Salom... {}\nMen YouTubedagi videolarni yuklayman.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
-    OPTIONS_TXT = "Men YouTubedagi videolarni yuklayma.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
-    RESULTS_TXT = "👀 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
+    WELCOME_MSG = "�Salom... {}\nMen YouTubedagi videolarni yuklayman.\nInline qidirng hamda yuklab oling."
+    OPTIONS_TXT = "Men YouTubedagi videolarni yuklayma.\nInline qidirng hamda yuklab oling."
+    RESULTS_TXT = "👀 Natikalar:"
     NO_RESULTS = "❌ Natija topilmadi:"
     DESCRIPTION = "Duration: {} || {}"
     NOT_AUTH_TXT = "❌ ❌ Siz obuna bo`lmagansiz ❌ ❌"
@@ -29,7 +29,7 @@ class Presets(object):
     SHARE_BUTTON_TEXT = "𝙃𝙞..  👋\n𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 : @{username}\n𝐅𝐨𝐫 𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬"
     SAVED_THUMB = "<b>✅ Thumbnail Saved Successfully</b>\n<code>This file will be used in next YouTube " \
                   "downloads until you clear it !</code> "
-    WAIT_MESSAGE = "𝐏𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭.. 𝟒 𝐚 𝐬𝐞𝐜𝐨𝐧𝐝 !"
+    WAIT_MESSAGE = "Iltimos kuting.. 4 sekund !"
     THUMB_CAPTION = "<code>This image is your current thumbnail, Tap </code><b> DEL THUMB </b><code> if you wish to " \
                     "clear it !</code> "
     NO_THUMB = "𝐓𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝐧𝐨 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥𝐬 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐨𝐜𝐚𝐥 𝐝𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲, 𝐏𝐥𝐞𝐚𝐬𝐞 𝐮𝐩𝐥𝐨𝐚𝐝 𝐚𝐧 𝐢𝐦𝐚𝐠𝐞 𝐭𝐨 𝐬𝐚𝐯𝐞 𝐢𝐭 !"
