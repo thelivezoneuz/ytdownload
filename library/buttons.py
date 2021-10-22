@@ -16,7 +16,7 @@ start_btn = [
     ],
     [
         InlineKeyboardButton('Yordam', callback_data='help_btn'),
-        InlineKeyboardButton('Yordam', url='t.me/i_shakhzod')
+        InlineKeyboardButton('Yordam', url='t.me/ultrasoft_uz')
     ],
     [
         InlineKeyboardButton('Yopish', callback_data='close_btn'),
